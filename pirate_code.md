@@ -1,7 +1,7 @@
 # Pirate code
 
-I.    The Captain and Quartermaster to receive two shares of a prize: the master, boatswain,
-      and gunner, one share and a half, and other officers one and quarter.
+I.    The Captain and Quartermaster to receive two shares of a prize, the First-mate to
+      receive one share of a prize.
 
 II.   Every man has equal title to the fresh provisions, or strong liquors, and may use
       them at pleasure, unless a scarcity makes it necessary, for the good of all, to vote
@@ -35,7 +35,7 @@ XI.   Any man deserting the ship in battle or rewriting history on the project's
 
 
 To sign the pirate code, replace "NAME_HERE" with your name on the line matching your
-rank in your pirate team. IMPORANT: only sign for yourself, not for others.
+rank in your pirate team. IMPORTANT: only sign for yourself, not for others.
 Note to the First mate: make sure you revise article I of the pirate code above, so you
 get your fair share of the prize!
 
